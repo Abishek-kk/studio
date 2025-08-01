@@ -1,5 +1,8 @@
-import OnboardingDashboard from "@/components/onboarding-dashboard";
-
 export default function Home() {
-  return <OnboardingDashboard />;
+  return (
+    <main>
+      <h1>🚀 My Firebase Studio + Next.js Site</h1>
+      <p>Now it's working!</p>
+    </main>
+  );
 }
