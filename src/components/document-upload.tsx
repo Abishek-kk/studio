@@ -7,7 +7,8 @@ import { useToast } from "@/hooks/use-toast";
 import { handleDocumentUpload } from "@/actions/onboarding";
 import type { PatientData } from "@/lib/types";
 import { UploadCloud, File, Loader2 } from "lucide-react";
-
+// i need to add the thing but i forget that due to one issue
+//yes that one
 type DocumentUploadProps = {
   onExtractionComplete: (data: PatientData) => void;
 };
