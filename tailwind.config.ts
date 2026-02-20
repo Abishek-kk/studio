@@ -7,6 +7,7 @@ export default {
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
+  //CHANGES MUST HAPPEN BRO 
   theme: {
     extend: {
       fontFamily: {
